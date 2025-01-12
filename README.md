@@ -8,7 +8,7 @@
 - [ ] Reverse an array.
 - [ ] Check if an array is sorted.
 - [ ] Remove duplicates from a sorted array.
-- [ ] Find the index of a given element in an array (Linear Search).
+- [x] Find the index of a given element in an array (Linear Search).
 
 ### Medium
 

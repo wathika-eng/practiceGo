@@ -7,6 +7,9 @@ func search(l []int, d int) (int, bool) {
 		if d == v {
 			return i, true
 		}
+		fmt.Printf("Checking %v at position %v\n", v, i)
+		fmt.Println("--------------------------------")
+
 	}
 	return -1, false
 }
